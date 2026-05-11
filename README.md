@@ -1,12 +1,12 @@
 # AML-Transaction-Monitoring Engine
 
-##1. Introduction 
+## 1. Introduction 
 
 
 This engine automates the identification of high-risk financial patterns within large datasets. It is designed to replace manual spreadsheet reviews with high-speed, programmatic screening, detecting complex red flags like structuring and jurisdictional risk across 5,000+ transactions in seconds.
 
 
-##2. Technologies List
+## 2. Technologies List
 
 
 * **Language:** Python 3.11
@@ -41,7 +41,7 @@ This engine automates the identification of high-risk financial patterns within 
 *Figure 2: Programmatic implementation of regulatory detection rules.*
 
 
-##4. Keyboard Shortcuts
+## 4. Keyboard Shortcuts
 
 * **Ctrl + S:** Save logic/rule updates.
 
@@ -52,7 +52,7 @@ This engine automates the identification of high-risk financial patterns within 
 * **F5:** Debug and run the engine.
   
 
-##5. The Process
+## 5. The Process
 
 
 * **Requirement Analysis:** Defined the legal parameters for "suspicious" activity.
@@ -68,7 +68,7 @@ This engine automates the identification of high-risk financial patterns within 
 
 *Figure 3: Raw transaction evidence containing 5,000 records prior to screening.*
 
-##6. What I Learned
+## 6. What I Learned
 
 
 * **Regulatory Translation:** Converting abstract legal standards into precise, automated parameters.
@@ -77,7 +77,7 @@ This engine automates the identification of high-risk financial patterns within 
 
 * **Version Control:** Managing a professional-grade forensic repository using Git.
 
-##7. How it Can be Improved
+## 7. How it Can be Improved
 
 
 * **Fuzzy Matching:** Implementing logic to detect misspelled names against sanction lists.
@@ -86,7 +86,7 @@ This engine automates the identification of high-risk financial patterns within 
 
 * **Visualization:** Developing a dashboard to map the geographical flow of high-risk funds.
 
-##8. Running the Project
+## 8. Running the Project
 
 * **Clone** the repository.
 
