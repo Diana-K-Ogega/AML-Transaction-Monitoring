@@ -100,4 +100,4 @@ This engine automates the identification of high-risk financial patterns within 
 ![Final GitHub Deployment](github_sync_final.png)
 
 
-*Figure 5: Confirmation of final project deployment and remote synchronization.*
+*Figure 4: Confirmation of final project deployment and remote synchronization.*
